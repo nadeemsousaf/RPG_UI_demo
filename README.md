@@ -5,3 +5,6 @@ This program is a demo for "Dungeons & Dragons" style role-playing game, created
 
 -Compilation and Running Instructions- 
 To run a demo, enter "python character_design_UI.py" into the terminal. Upon running the code, a window will appear, adjust the window to your desired dimensions. To exit the program at any time, click the 'x' in the top right corner of the window. To exit the window once the demo is complete, reach the final "page" and wait for the button labelled "End Demo" to appear in the top right corner, inside the window, and click that button.
+
+-Citations-
+Online web browser app called "Sketch.IO" was used to create "images/quest_text2.png."
