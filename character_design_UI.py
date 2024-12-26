@@ -77,7 +77,7 @@ def destroy_scale():
     agility_bar.destroy()
     dexterity_bar.destroy()
 
-def destroy_frame():
+def destroy_frame(): #add global to keep track of active frames, then destroy all active- allows for reusal in multiple functions
     frame1.destroy()
     frame2.destroy()
     frame3.destroy()
